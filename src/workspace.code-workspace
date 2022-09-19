@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "src",
+		"path": "."
+	},
+	{
+		"name": "project_star",
+		"path": "../../project_star"
+	}
+],
+  "settings": {}
+}
